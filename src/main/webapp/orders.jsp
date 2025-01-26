@@ -67,7 +67,7 @@
 <button class="btn btn-secondary back-button" onclick="window.history.back()">← Back</button>
 
 <div class="container product-list-container">
-    <h1 class="mb-4">Product List</h1>
+    <h1 class="mb-4">Order List</h1>
     <%
         List<OrderDetailDTO> customerDataList = (List<OrderDetailDTO>) request.getAttribute("user");
 
