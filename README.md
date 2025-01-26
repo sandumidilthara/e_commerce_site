@@ -36,11 +36,12 @@ admin functions ;
 
 ![Screenshot 2025-01-26 154535](https://github.com/user-attachments/assets/e3c44463-8faa-411e-b98d-37109f477942)
 
-![Screenshot 2025-01-26 154706](https://github.com/user-attachments/assets/bc874f25-fcd1-4fe7-a816-f1c3d0ffd48e)
+ ![Screenshot 2025-01-26 154616](https://github.com/user-attachments/assets/b6b5db88-9cd3-43b0-b9f4-0f0c4fd694b3)
+ 
+ ![Screenshot 2025-01-26 154628](https://github.com/user-attachments/assets/c66baac5-957c-4409-9e35-ff199b7944e8)
 
-![Screenshot 2025-01-26 154706](https://github.com/user-attachments/assets/3eaebb2d-fe7f-467b-a79f-056382a904b1)
+![Screenshot 2025-01-26 154652](https://github.com/user-attachments/assets/671511b9-fb65-4cb3-9b8f-7a7530cdf181)
 
-![Screenshot 2025-01-26 154706](https://github.com/user-attachments/assets/8ebd4eac-1a16-4da5-80ae-e3bbc84805e6)
 
 ![Screenshot 2025-01-26 154706](https://github.com/user-attachments/assets/b4931fd8-d72d-4942-8849-a853d4d86d0e)
 
